@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Dec  8 12:17:46 2024
 
 @author: jared
 """
